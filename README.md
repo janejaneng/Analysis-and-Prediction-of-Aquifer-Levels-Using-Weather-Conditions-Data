@@ -26,4 +26,6 @@ We added a period attribute to denote different stages of a day as night, mornin
 <br />
 The following visualizations depict variables depth and current over time. The two variables seem to share a strong correlation in movement. This is noted for later analysis. Apparently, well depth from September to mid-October of 2022 fluctuated more robustly than that after mid-October. The team is interested in learning why this phenomenon happened.
 
+<br/ >
+
 
